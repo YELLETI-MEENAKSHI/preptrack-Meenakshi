@@ -274,3 +274,11 @@ print("Highest Score Day :", highest_score_day)
 
 print("Lowest Score :", lowest_score)
 print("Lowest Score Day :", lowest_score_day)
+
+print()
+
+print("Final Status :", final_status)
+print("Primary Blocker :", primary_blocker)
+print("Next Action :", next_action)
+
+print("=" * 50)
