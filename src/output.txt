@@ -1,0 +1,57 @@
+Enter student name: meena
+Enter registration number: 224P3
+Enter graduation year: 2026
+Enter attendance percentage: 85
+Attendance accepted.
+Has the student completed the required project? Enter yes or no: yes
+Is the student profile verified? Enter yes or no: yes
+Enter Day 1 score from 0 to 100, or -1 for absent: 80
+Day 1 Result : Strong
+Enter Day 2 score from 0 to 100, or -1 for absent: 75
+Day 2 Result : Strong
+Enter Day 3 score from 0 to 100, or -1 for absent: 72
+Day 3 Result : Satisfactory
+Enter Day 4 score from 0 to 100, or -1 for absent: 78
+Day 4 Result : Strong
+Enter Day 5 score from 0 to 100, or -1 for absent: 90
+Day 5 Result : Strong
+Enter Day 6 score from 0 to 100, or -1 for absent: 70
+Day 6 Result : Satisfactory
+Enter Day 7 score from 0 to 100, or -1 for absent: 82
+Day 7 Result : Strong
+Highest Score          : 90
+Highest Score Day      : Day 5
+Lowest Score           : 70
+Lowest Score Day       : Day 6
+
+First Critical Day     : Not Applicable
+First Critical Score   : Not Applicable
+Total Score            : 547
+Average Score          : 78.14
+
+==================================================
+PREPTRACK REPORT
+==================================================
+Student Name : meena
+Registration Number : 224P3
+Graduation Year : 2026
+Attendance : 85.0
+Attempted Days : 7
+Absent Days : 0
+Passed Days : 7
+Failed Days : 0
+Strong Days : 5
+Satisfactory Days : 2
+Needs Improvement Days : 0
+Critical Days : 0
+Total Score : 547
+Average Score : 78.14
+Highest Score : 90
+Highest Score Day : 5
+Lowest Score : 70
+Lowest Score Day : 6
+
+Final Status : Ready for Mock Interview
+Primary Blocker : None
+Next Action : Proceed to the mock interview.
+==================================================
