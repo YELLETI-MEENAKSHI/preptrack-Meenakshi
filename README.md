@@ -1,6 +1,9 @@
-# preptrack-Meenakshi
+# PrepTrack – Placement Preparation Performance Analyzer
+# PrepTrack - Meenakshi
 This is my first project repository
+
 📘 PrepTrack – Placement Preparation Performance Analyzer
+
 📌 Project Overview
 PrepTrack is a Python console application that analyzes a student's placement preparation performance based on attendance, project completion, profile verification, and daily coding practice scores.
 
@@ -25,7 +28,6 @@ Accepts only scores between 0–100 or -1 for absence
 Processes seven days of coding practice
 
 Classifies each practice score into:
-
 Strong (75–100)
 Satisfactory (60–74)
 Needs Improvement (40–59)
@@ -58,6 +60,7 @@ No critical score (<40)
 At least 4 passed practice days
 Required project completed
 Student profile verified
+
 🛠 Technologies Used
 Python 3
 Console-based Application
@@ -66,11 +69,13 @@ Conditional Statements
 Input Validation
 Boolean Logic
 Variables and Counters
+
 📂 Project Structure
 PrepTrack/
 │
 ├── main.py
 └── README.md
+
 ▶️ How to Run
 Install Python 3.
 Download or clone this repository.
@@ -78,6 +83,7 @@ Open a terminal in the project folder.
 Run:
 python main.py
 Enter the required student details and practice scores.
+
 📋 Sample Report
 The application displays:
 
@@ -91,6 +97,7 @@ First Critical Score (if any)
 Final Placement Status
 Primary Blocker
 Recommended Next Action
+
 📖 Concepts Demonstrated
 Input Validation
 While Loops
@@ -102,6 +109,7 @@ Nested Conditions
 Data Classification
 Performance Analysis
 Report Generation
+
 🎯 Learning Outcomes
 By completing this project, learners will understand how to:
 
@@ -113,5 +121,6 @@ Calculate totals and averages
 Track minimum and maximum values
 Generate structured reports
 Build a complete console-based Python application
+
 👨‍💻 Author
 Developed as a Python programming project for practicing problem-solving, input validation, loops, conditional logic, and performance analysis.
